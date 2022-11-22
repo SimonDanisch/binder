@@ -1,0 +1,6 @@
+
+name: wglmakie_binder
+channels:
+ - conda-forge
+dependencies:
+ - jupyter-server-proxy
