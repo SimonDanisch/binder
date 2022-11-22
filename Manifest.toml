@@ -483,7 +483,7 @@ version = "0.21.3"
 
 [[deps.JSServe]]
 deps = ["Base64", "CodecZlib", "Colors", "Dates", "Deno_jll", "HTTP", "Hyperscript", "LinearAlgebra", "Markdown", "MsgPack", "Observables", "RelocatableFolders", "SHA", "Sockets", "Tables", "Test", "URIs", "UUIDs", "WidgetsBase"]
-git-tree-sha1 = "858ea4f918583dcc93f4de768de32713885c0646"
+git-tree-sha1 = "8e5790c0fa810747ea463f82b23cd043ee7e31e3"
 repo-rev = "sd/improvements"
 repo-url = "https://github.com/SimonDanisch/JSServe.jl.git"
 uuid = "824d6782-a2ef-11e9-3a09-e5662e0c26f9"
